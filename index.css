@@ -1,3 +1,5 @@
 body{
-    background-color:greenyellow;
+  background-image: url(images/4.jpeg);
+  background-size: 1920% 1200vh;
+  background-repeat: no-repeat; 
 }
