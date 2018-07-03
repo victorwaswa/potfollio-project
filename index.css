@@ -1,5 +1,22 @@
 body{
-  background-image: url(images/4.jpeg);
-  background-size: 1920% 1200vh;
+  background-image: url(images/ki.jpeg);
+  background-size: 100%;
   background-repeat: no-repeat; 
+}
+ .container {
+}
+.row{
+  color:#333;
+  float: right;
+  font-size: 40px;
+  
+}
+a{
+  text-decoration: none;
+}
+.text{
+  font-size: 22px;
+  position: relative;
+  top: 200px;
+  left: 200px;
 }
